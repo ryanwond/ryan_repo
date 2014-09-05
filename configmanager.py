@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: UTF-8 -*-
-#Ticloud web version 2.0
-#author:WangRui
+#author:RyanWond
 
 import ConfigParser
 import logging
